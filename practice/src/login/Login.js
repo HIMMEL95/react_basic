@@ -26,7 +26,7 @@ class Login extends Component {
   render() {
     return (
       <div className="App container-lg">
-        <header className="App-header">
+        <header className="App-header"> 
           <div>
             <div className="card" style={{ width: "50rem" }}>
               <div className="card-body">
